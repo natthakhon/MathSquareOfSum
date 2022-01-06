@@ -1,0 +1,9 @@
+C:\Users\nattl\source\repos\MathSquareOfSum\MathSquareOfSumLib\bin\Release\MathSquareOfSumLib.dll
+C:\Users\nattl\source\repos\MathSquareOfSum\MathSquareOfSumLib\bin\Release\MathSquareOfSumLib.pdb
+C:\Users\nattl\source\repos\MathSquareOfSum\MathSquareOfSumLib\obj\Release\MathSqSumDesigner.baml
+C:\Users\nattl\source\repos\MathSquareOfSum\MathSquareOfSumLib\obj\Release\MathSqSumDesigner.g.cs
+C:\Users\nattl\source\repos\MathSquareOfSum\MathSquareOfSumLib\obj\Release\MathSquareOfSumLib_MarkupCompile.cache
+C:\Users\nattl\source\repos\MathSquareOfSum\MathSquareOfSumLib\obj\Release\MathSquareOfSumLib.g.resources
+C:\Users\nattl\source\repos\MathSquareOfSum\MathSquareOfSumLib\obj\Release\MathSquareOfSumLib.csproj.CoreCompileInputs.cache
+C:\Users\nattl\source\repos\MathSquareOfSum\MathSquareOfSumLib\obj\Release\MathSquareOfSumLib.dll
+C:\Users\nattl\source\repos\MathSquareOfSum\MathSquareOfSumLib\obj\Release\MathSquareOfSumLib.pdb
